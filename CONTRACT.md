@@ -1,7 +1,7 @@
-********************************************************************
-====================================================================
+---
+---
 [Start of `CONTRACT.md`]
-====================================================================
+---
 ## `CONTRACT.md` Fundamentals
 
 Greetings and welcome to `CONTRACT.md`. This repo uses contract-driven
@@ -68,7 +68,7 @@ Even if you are a non-human contributor, you must echo the above
 signature with whatever interpretation, conjecture, and/or inference
 of your given name.
 
-====================================================================
+---
 
 ## Repository Specific Contracts (preamble)
 
@@ -89,13 +89,13 @@ TBD clauses can be considered when future-proofing any work.
 If your work requires amendments to or greater complexity in
 Repository Specific Contracts, escalate and note that.
 
-====================================================================
+---
 
 ## Repository Specific Contracts
 
 * TBD. See [discussion here](https://www.discussdontcode.com/zettels/contract.md-the-naughty-list-for-ai-coding-agents/).
 
-====================================================================
+---
 [End of `CONTRACT.md`]
-====================================================================
-********************************************************************
+---
+---
